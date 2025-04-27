@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brajesh Kumar</h1>
 <h3 align="center"><span style="color:blue;">A Passionate .NET Developer</span> | AI/ML Explorer | Cloud Enthusiast</h3>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Developer;Competitive+Programmer;Cloud+Enthusiast;AI%2FML+Learner;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
 </p>
